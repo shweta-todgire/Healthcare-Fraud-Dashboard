@@ -1,46 +1,54 @@
 # 🏥 Healthcare Insurance Claims & Fraud Analytics Dashboard
 
 ## 📌 Project Overview
-This project analyzes healthcare insurance claims data to identify fraud patterns, claim trends, provider performance, and key business insights. The project was developed using **Microsoft Excel** for data cleaning, analysis, and dashboard creation.
+
+This is an end-to-end Data Analytics project that analyzes **20,000+ healthcare insurance claims** to identify fraud patterns, claim trends, and provider performance. The project demonstrates the complete analytics workflow using **Microsoft Excel** for data cleaning and reporting, **MySQL** for database design and business analysis, and **Power BI** for interactive dashboard creation.
 
 ## 🎯 Objectives
-- Analyze insurance claim trends
-- Detect fraudulent claims
-- Compare provider performance
-- Monitor claim amount by state, gender, and service type
-- Build an interactive dashboard for business decision-making
 
-## 🛠️ Tools Used
+- Clean and prepare healthcare claims data
+- Analyze claim trends and fraudulent claims
+- Evaluate provider and hospital performance
+- Build interactive dashboards for business insights
+
+## 🛠️ Tools & Technologies
+
 - Microsoft Excel
-- Pivot Tables
-- Pivot Charts
-- Slicers
-- Lookup Functions
-- Conditional Formatting
+- MySQL
+- Power BI
+- Pivot Tables & Charts
+- DAX
+- SQL
+- Slicers & Lookup Functions
+
+## 📊 Project Workflow
+
+- **Excel:** Cleaned and transformed the dataset, created calculated columns, and built an interactive dashboard.
+- **SQL:** Designed a normalized database and performed business analysis using Basic SQL, JOINs, Advanced SQL, and Window Functions.
+- **Power BI:** Built an interactive dashboard with KPI cards, charts, DAX measures, and slicers for dynamic analysis.
 
 ## 📊 Dashboard KPIs
+
 - Total Claims
 - Total Claim Amount
-- Fraud Count
+- Fraud Claims
 - Fraud Percentage
 - Average Claim Amount
 - Average Length of Stay
 
 ## 📈 Dashboard Visualizations
-- Total Claim Amount by State
+
+- Claim Amount by State
 - Fraud by Provider Type
 - Monthly Claim Trend
-- Total Claim Amount by Gender
-- Average Length of Stay by Diagnosis Code
-- Top 10 Hospitals by Claim Amount
-- Total Claim Amount by Service Type
+- Top Hospitals by Claim Amount
+- Claim Amount by Provider Specialty
+- Average Stay by Diagnosis Code
 
 ## 📂 Files Included
-- Healthcare Insurance Claims Dataset
-- Cleaned Excel Workbook
-- Interactive Excel Dashboard
 
-## 🚀 Future Enhancements
-- SQL Database Design & Analysis
-- Power BI Interactive Dashboard
-- Advanced Fraud Analytics
+- Dataset
+- Excel Dashboard
+- SQL Scripts
+- Power BI Dashboard
+- README
