@@ -24,7 +24,7 @@ This is an end-to-end Data Analytics project that analyzes **20,000+ healthcare 
 ## 📊 Project Workflow
 
 - **Excel:** Cleaned and transformed the dataset, created calculated columns, and built an interactive dashboard.
-- **SQL:** Designed a normalized database and performed business analysis using Basic SQL, JOINs, Advanced SQL, and Window Functions.
+- **SQL:** Designed a normalized database and performed business analysis using Basic SQL, JOINs, Advanced SQL Functions.
 - **Power BI:** Built an interactive dashboard with KPI cards, charts, DAX measures, and slicers for dynamic analysis.
 
 ## 📊 Dashboard KPIs
